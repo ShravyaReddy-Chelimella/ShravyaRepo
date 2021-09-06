@@ -1,5 +1,4 @@
 package com.sr.stk;
-import com.sr.stk.stkk;
 public class Test {
 	public static void main(String[] args) {
 		stkk stk=new stkk();
